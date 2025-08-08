@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Signup from "./Signup";
+import Signup from "./signup";
 import Admin from "./Admin";
 
 export default function App() {
